@@ -1,6 +1,6 @@
 # Analisis-Bi-Electromas
 
-Perspectiva de Productos:
+Perspectiva de Ventas:
 ![image](https://github.com/user-attachments/assets/33a5eee4-88f6-4b51-8be9-9e88e592f62f)
 
 Perspectiva de Categorias
