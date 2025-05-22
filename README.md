@@ -30,4 +30,10 @@ Este proyecto incluyó una etapa inicial de **planificación del tablero**, en l
 - ✅ Paleta de colores sobria y moderna, alineada con el branding de una empresa tecnológica.
 - ✅ Inclusión del logo ficticio de ElectroMas para reforzar la identidad visual.
 
+- ## ✅ Cómo visualizar el proyecto
+
+1. Descargá o cloná el repositorio.
+2. Abrí el archivo `dashboard.pbix` con Power BI Desktop.
+3. Explorá los gráficos y filtros para interactuar con los datos.
+
 > Este proyecto fue realizado con fines educativos, aplicando conceptos de visualización de datos, diseño de dashboards y análisis de negocio en Power BI.
