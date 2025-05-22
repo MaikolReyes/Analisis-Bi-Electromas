@@ -1,33 +1,33 @@
-# Analisis-Bi-Electromas
+# 📊 Análisis de Ventas para ElectroMas - Power BI
 
-Perspectiva de Ventas:
+Este proyecto de Business Intelligence fue desarrollado para **ElectroMas**, una empresa ficticia dedicada a la comercialización minorista de artículos electrónicos y electrodomésticos. La gerente general solicitó un análisis integral de las ventas para comprender mejor el comportamiento del negocio y tomar decisiones estratégicas basadas en datos.
+
+## 🎯 Objetivo del Proyecto
+
+Diseñar y desarrollar un dashboard profesional en Power BI que permita visualizar:
+
+1. La **evolución de las ventas** totales en el tiempo.
+2. La **distribución de ventas por canal** (tienda física vs online).
+3. La **localización geográfica de los clientes**.
+4. La **comparación entre categorías de productos** según unidades vendidas.
+5. Información adicional relevante que aporte valor al análisis y facilite la toma de decisiones.
+
 ![image](https://github.com/user-attachments/assets/33a5eee4-88f6-4b51-8be9-9e88e592f62f)
 
-Perspectiva de Categorias
 ![image](https://github.com/user-attachments/assets/ca5fb3a1-08d4-49cb-83ce-eadbe0e2c57e)
 
+## 🧠 Proceso de Desarrollo
 
-Esta es la situación de hoy. Has sido contratado por la gerente de ElectroMas, una empresa dedicada a la comercialización minorista de artículos electrónicos y electrodomésticos. La gerente general envía las bases de datos con toda su información de ventas (que te puedes descargar como recursos de esta lección), y te ha pedido que le muestres cómo han ido evolucionando las ventas, separando las perspectivas:
+Este proyecto incluyó una etapa inicial de **planificación del tablero**, en la cual se definieron las visualizaciones más apropiadas, la estructura del dashboard, la interacción entre elementos y los filtros clave. Las decisiones de diseño se centraron en garantizar **claridad, coherencia estética y utilidad operativa**.
 
-1. Por un lado le interesa ver las ventas totales, y su tendencia a lo largo del tiempo, así como su distribución en los canales de venta (tiendas físicas u online), y conocer geográficamente, dónde se concentran sus clientes.
-2. Por otro lado, le interesa ver cómo se comparan las diferentes categorías de productos entre sí, respecto a la cantidad de unidades vendidas. Por supuesto que puedes realizar tus propios aportes para enriquecer esta perspectiva.
+### 🔧 Decisiones clave:
 
-En este proyecto, tu tarea consiste en planificar un diagrama del tablero que luego llevarás a cabo en Power BI. Como punto de partida puedes usar el formato o soporte que más te guste (ya sea papel y lápiz, una herramienta de diseño digital o cualquier otro medio que les resulte cómodo).
+- ✅ Gráficos de líneas para representar la evolución de las ventas.
+- ✅ Gráficos de barras apiladas para la comparación entre canales de venta.
+- ✅ Mapas geográficos para visualizar la distribución de los clientes.
+- ✅ Gráficos de columnas agrupadas para comparar categorías de productos.
+- ✅ Segmentadores por canal, categoría y rango de fechas para permitir el análisis dinámico.
+- ✅ Paleta de colores sobria y moderna, alineada con el branding de una empresa tecnológica.
+- ✅ Inclusión del logo ficticio de ElectroMas para reforzar la identidad visual.
 
-Hoy deberás tomar todas las decisiones importantes, como:
-
-- Seleccionar los tipos de gráficos más apropiados
-- Decidir la agrupación e interacción de las visualizaciones.
-- Incluir los segmentadores que creas que ayudarán a responder las preguntas de la gerente.
-- Aplicar los colores de un tema que consideres apropiado
-- Y finalmente colocar el logo de una empresa ficticia para demostrar tu sentido de pertenencia.
-
-En este proyecto el diseño visual y la coherencia estética serán claves para crear un tablero atractivo y profesional.
-
-Recuerda que no solo se trata de hacer un tablero visualmente agradable, sino también que sea funcional y que cumpla con el objetivo de comunicar información valiosa, así que no dejes de aplicar los principios de diseño y del storytelling que hemos aprendido el día de hoy.
-
-Te recomiendo configurar el "tema" que vas a usar en este reporte, partiendo de los colores de marca de la empresa (que puedes ver en el logo y que también te podrás descargar de esta lección), y sin olvidar que muchas veces, en el diseño, menos es más, y que la prioridad serán tus datos.
-
-Como ya estás acostumbrado, a continuación tendrás dos cuestionarios: el primero que debes mantener siempre abierto durante la ejecución del proyecto para guiarte a lo largo del camino sin extraviarte entre tantos pasos, y el segundo para confirmar tus datos respondiendo a las preguntas de la gerente de ElectroMas.
-
-¡Manos a la obra! Y asegúrate de divertirte todo el tiempo.
+> Este proyecto fue realizado con fines educativos, aplicando conceptos de visualización de datos, diseño de dashboards y análisis de negocio en Power BI.
