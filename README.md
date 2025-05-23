@@ -12,9 +12,7 @@ Diseñar y desarrollar un dashboard profesional en Power BI que permita visualiz
 4. La **comparación entre categorías de productos** según unidades vendidas.
 5. Información adicional relevante que aporte valor al análisis y facilite la toma de decisiones.
 
-![image](https://github.com/user-attachments/assets/33a5eee4-88f6-4b51-8be9-9e88e592f62f)
-
-![image](https://github.com/user-attachments/assets/ca5fb3a1-08d4-49cb-83ce-eadbe0e2c57e)
+![Electromas-font](https://github.com/user-attachments/assets/29c02108-aeed-4163-8fb0-47ca61dcd569) ![electromas-perspective-two](https://github.com/user-attachments/assets/d5cd0332-4b60-4e31-ac86-f0cf041acfa0)
 
 ## 🧠 Proceso de Desarrollo
 
