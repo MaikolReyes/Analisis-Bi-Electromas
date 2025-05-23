@@ -30,7 +30,7 @@ Este proyecto incluyó una etapa inicial de **planificación del tablero**, en l
 - ## ✅ Cómo visualizar el proyecto
 
 1. Descargá o cloná el repositorio.
-2. Abrí el archivo `dashboard.pbix` con Power BI Desktop.
+2. Abrí el archivo `electromas.pbix` con Power BI Desktop.
 3. Explorá los gráficos y filtros para interactuar con los datos.
 
 > Este proyecto fue realizado con fines educativos, aplicando conceptos de visualización de datos, diseño de dashboards y análisis de negocio en Power BI.
