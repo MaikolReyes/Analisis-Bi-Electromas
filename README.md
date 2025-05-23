@@ -11,9 +11,8 @@ Diseñar y desarrollar un dashboard profesional en Power BI que permita visualiz
 3. La **localización geográfica de los clientes**.
 4. La **comparación entre categorías de productos** según unidades vendidas.
 5. Información adicional relevante que aporte valor al análisis y facilite la toma de decisiones.
-
-![Electromas-font](https://github.com/user-attachments/assets/29c02108-aeed-4163-8fb0-47ca61dcd569) ![electromas-perspective-two](https://github.com/user-attachments/assets/d5cd0332-4b60-4e31-ac86-f0cf041acfa0)
-
+![Electromas-font](https://github.com/user-attachments/assets/29c02108-aeed-4163-8fb0-47ca61dcd569) 
+![electromas-perspective-two](https://github.com/user-attachments/assets/d5cd0332-4b60-4e31-ac86-f0cf041acfa0)
 ## 🧠 Proceso de Desarrollo
 
 Este proyecto incluyó una etapa inicial de **planificación del tablero**, en la cual se definieron las visualizaciones más apropiadas, la estructura del dashboard, la interacción entre elementos y los filtros clave. Las decisiones de diseño se centraron en garantizar **claridad, coherencia estética y utilidad operativa**.
