@@ -1,7 +1,9 @@
 # 📊 Análisis de Ventas para ElectroMas - Power BI
 
 Este proyecto de Business Intelligence fue desarrollado para **ElectroMas**, una empresa ficticia dedicada a la comercialización minorista de artículos electrónicos y electrodomésticos. La gerente general solicitó un análisis integral de las ventas para comprender mejor el comportamiento del negocio y tomar decisiones estratégicas basadas en datos.
+
 ![Electromas-font](https://github.com/user-attachments/assets/29c02108-aeed-4163-8fb0-47ca61dcd569) 
+
 ## 🎯 Objetivo del Proyecto
 
 Diseñar y desarrollar un dashboard profesional en Power BI que permita visualizar:
