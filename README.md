@@ -2,7 +2,7 @@
 
 Este proyecto de Business Intelligence fue desarrollado para **ElectroMas**, una empresa ficticia dedicada a la comercialización minorista de artículos electrónicos y electrodomésticos. La gerente general solicitó un análisis integral de las ventas para comprender mejor el comportamiento del negocio y tomar decisiones estratégicas basadas en datos.
 
-![Electromas-font](https://github.com/user-attachments/assets/29c02108-aeed-4163-8fb0-47ca61dcd569) 
+![443180927-33a5eee4-88f6-4b51-8be9-9e88e592f62f](https://github.com/user-attachments/assets/75c2d935-0ed2-4214-810f-3d038c3ae177)
 
 ## 🎯 Objetivo del Proyecto
 
